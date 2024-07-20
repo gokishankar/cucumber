@@ -20,7 +20,10 @@ import cucumber.api.junit.Cucumber;
 
 public class TestRunner {
 	
-	
+	private void syso() {
+		System.out.println("test runner");
+
+	}
 
 	
 }
